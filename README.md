@@ -20,3 +20,9 @@ Siga estas etapas para executar o programa:
 <p>Clone este repositório ou faça o download dos arquivos.</p>
 <p>Navegue até o diretório em que os arquivos foram baixados.</p>
 <p>Compile o código-fonte usando o compilador C++.</p>
+
+Esse projeto foi desenvolvido pelas seguintes pessoas:
+
+- [Luis Filipe Bandeira](https://github.com/luisfilipebandeira/)
+- [Marcos Vinicius Barbosa](https://github.com/eziors)
+- [Mateus Alvez](https://github.com/MateusAlvez)
