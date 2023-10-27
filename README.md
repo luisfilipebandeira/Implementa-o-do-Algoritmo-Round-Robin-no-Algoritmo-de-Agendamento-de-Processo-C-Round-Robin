@@ -1,8 +1,6 @@
 <h1>Implementação do Algoritmo Round Robin em C++</h1>
 <p>Este é um simples projeto em C++ que demonstra a implementação do algoritmo Round Robin para agendamento de processos. O algoritmo Round Robin é um dos mais populares algoritmos de agendamento de processos em sistemas operacionais.</p>
 
-<br>
-
 <h3>Como funciona o Algoritmo Round Robin</h3>
 O algoritmo Round Robin é um método de escalonamento de processos, no qual cada processo é atribuído um pequeno intervalo de tempo, conhecido como quantum, e os processos são atendidos em ordem circular. Se um processo não é concluído em um quantum, ele é colocado de volta na fila para aguardar sua vez.
 
